@@ -1,0 +1,10 @@
+.profilepic{
+	width:400px;
+	border: 30px groove;
+}
+
+.navbar-custom .navbar-nav li a:hover {
+    color: #18BC9C;
+    outline: 0;
+    font-size: 20px;
+}
